@@ -1,4 +1,12 @@
-{
+{ 
+    "counts": [
+    {
+    "count": 5,
+    "next": "http://localhost:8000/api/travel/apartments/?format=json&page=3",
+    "previous": "http://localhost:8000/api/travel/apartments/?format=json",
+    }
+    
+],
     "count": 5,
     "next": "http://localhost:8000/api/travel/apartments/?format=json&page=3",
     "previous": "http://localhost:8000/api/travel/apartments/?format=json",
