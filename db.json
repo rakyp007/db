@@ -28,7 +28,7 @@
           }
       ],
       "housing_name": "Уютный отель \"Зеленая роща\"",
-      "image": [
+      "images": [
         
           "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
           "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
@@ -71,7 +71,10 @@
           }
       ],
       "housing_name": "Bishkek Centrum Hotel",
-      "image": "http://60f5-185-138-186-141.ngrok-free.app/media/images/housing/165584921.jpeg",
+      "images": [
+        "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
+          "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
+      ] ,
       "description": "Трехзвездочный отель Bishkek Centrum расположен в Бишкеке. В этом трехзвездочном отеле работает бизнес-центр и осуществляется доставка еды и напитков в номер.",
       "address": "113 Sultan Ibraimov Street",
       "region": "Bishkek",
