@@ -28,7 +28,12 @@
           }
       ],
       "housing_name": "Уютный отель \"Зеленая роща\"",
-      "image": "http://60f5-185-138-186-141.ngrok-free.app/media/images/housing/48113_0.jpeg",
+      "image": [
+        
+          "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
+          "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
+        
+      ],
       "description": "Приветствуем вас в уютном отеле \"Зеленая роща\", где гармония с природой и комфортом создают неповторимую атмосферу для вашего отдыха.",
       "address": "Ул. Примерная, 123",
       "region": "Osh",
