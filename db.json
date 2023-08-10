@@ -1,102 +1,105 @@
 {
-  "hotels": [
+    "hotels": [
+        {
+            "count": 5,
+            "next": "http://localhost:8000/api/travel/apartments/?format=json&page=2",
+            "previous": null
+        },
     {
-      "id": 1,
-      "housing_amenities": [
-          "Poolside bar",
-          "Jacuzzi",
-          "free_internet",
-          "restaurant",
-          "airport_transfer",
-          "Dining",
-          "fitness",
-          "pool",
-          "Cafe"
-      ],
-      "ratings_received": [
-          {
-              "id": 1,
-              "rating": "Отлично",
-              "user": 1,
-              "housing": 1
-          },
-          {
-              "id": 3,
-              "rating": "Замечательно",
-              "user": 2,
-              "housing": 1
-          }
-      ],
-      "housing_name": "Уютный отель \"Зеленая роща\"",
-      "images": [
-        
-          "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
-          "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
-        
-      ],
-      "description": "Приветствуем вас в уютном отеле \"Зеленая роща\", где гармония с природой и комфортом создают неповторимую атмосферу для вашего отдыха.",
-      "address": "Ул. Примерная, 123",
-      "region": "Osh",
-      "stars": 1,
-      "housing_type": "Hotels",
-      "accommodation_type": "Entire place",
-      "food_type": "Breakfast included",
-      "check_in_time_start": 0,
-      "check_in_time_end": 0,
-      "check_out_time_start": 0,
-      "check_out_time_end": 0,
-      "children_allowed": false,
-      "pets_allowed": false,
-      "pet_fee": false,
-      "breakfast_offered": false,
-      "breakfast_included": false,
-      "breakfast_cost_usd": "200.00",
-      "breakfast_type": [],
-      "parking": "paid",
-      "parking_cost_usd": "20.00",
-      "parking_location": "On-site",
-      "slug": "uyutnyj-otel-zelenaya-rosha"
-  },
-  {
-      "id": 2,
-      "housing_amenities": [
-          "free_internet"
-      ],
-      "ratings_received": [
-          {
-              "id": 2,
-              "rating": "Хорошо",
-              "user": 2,
-              "housing": 2
-          }
-      ],
-      "housing_name": "Bishkek Centrum Hotel",
-      "images": [
-        "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
-          "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
-      ] ,
-      "description": "Трехзвездочный отель Bishkek Centrum расположен в Бишкеке. В этом трехзвездочном отеле работает бизнес-центр и осуществляется доставка еды и напитков в номер.",
-      "address": "113 Sultan Ibraimov Street",
-      "region": "Bishkek",
-      "stars": 3,
-      "housing_type": "Hotels",
-      "accommodation_type": "Entire place",
-      "food_type": "Breakfast included",
-      "check_in_time_start": 0,
-      "check_in_time_end": 3,
-      "check_out_time_start": 0,
-      "check_out_time_end": 3,
-      "children_allowed": false,
-      "pets_allowed": false,
-      "pet_fee": false,
-      "breakfast_offered": false,
-      "breakfast_included": false,
-      "breakfast_cost_usd": "5.00",
-      "breakfast_type": [],
-      "parking": "paid",
-      "parking_cost_usd": "5.00",
-      "parking_location": "On-site",
-      "slug": "bishkek-centrum-hotel"
-  }
-  ]
+            "id": 1,
+            "housing_amenities": [
+                "Poolside bar",
+                "Jacuzzi",
+                "free_internet",
+                "restaurant",
+                "airport_transfer",
+                "Dining",
+                "fitness",
+                "pool",
+                "Cafe"
+            ],
+            "ratings_received": [
+                {
+                    "id": 1,
+                    "rating": "Отлично",
+                    "user": 1,
+                    "housing": 1
+                },
+                {
+                    "id": 3,
+                    "rating": "Замечательно",
+                    "user": 2,
+                    "housing": 1
+                }
+            ],
+            "housing_name": "Уютный отель \"Зеленая роща\"",
+            "images": [
+                "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
+                "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
+            ],
+            "description": "Приветствуем вас в уютном отеле \"Зеленая роща\", где гармония с природой и комфортом создают неповторимую атмосферу для вашего отдыха.",
+            "address": "Ул. Примерная, 123",
+            "region": "Osh",
+            "stars": 1,
+            "housing_type": "Hotels",
+            "accommodation_type": "Entire place",
+            "food_type": "Breakfast included",
+            "check_in_time_start": 0,
+            "check_in_time_end": 0,
+            "check_out_time_start": 0,
+            "check_out_time_end": 0,
+            "children_allowed": false,
+            "pets_allowed": false,
+            "pet_fee": false,
+            "breakfast_offered": false,
+            "breakfast_included": false,
+            "breakfast_cost_usd": "200.00",
+            "breakfast_type": [],
+            "parking": "paid",
+            "parking_cost_usd": "20.00",
+            "parking_location": "On-site",
+            "slug": "uyutnyj-otel-zelenaya-rosha"
+        },
+        {
+            "id": 2,
+            "housing_amenities": [
+                "free_internet"
+            ],
+            "ratings_received": [
+                {
+                    "id": 2,
+                    "rating": "Хорошо",
+                    "user": 2,
+                    "housing": 2
+                }
+            ],
+            "housing_name": "Bishkek Centrum Hotel",
+            "images": [
+                "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg",
+                "https://www.travelplusstyle.com/wp-content/uploads/2021/01/g-02-patina-maldives-1.jpg"
+            ],
+            "description": "Трехзвездочный отель Bishkek Centrum расположен в Бишкеке. В этом трехзвездочном отеле работает бизнес-центр и осуществляется доставка еды и напитков в номер.",
+            "address": "113 Sultan Ibraimov Street",
+            "region": "Bishkek",
+            "stars": 3,
+            "housing_type": "Hotels",
+            "accommodation_type": "Entire place",
+            "food_type": "Breakfast included",
+            "check_in_time_start": 0,
+            "check_in_time_end": 3,
+            "check_out_time_start": 0,
+            "check_out_time_end": 3,
+            "children_allowed": false,
+            "pets_allowed": false,
+            "pet_fee": false,
+            "breakfast_offered": false,
+            "breakfast_included": false,
+            "breakfast_cost_usd": "5.00",
+            "breakfast_type": [],
+            "parking": "paid",
+            "parking_cost_usd": "5.00",
+            "parking_location": "On-site",
+            "slug": "bishkek-centrum-hotel"
+        }
+    ]
 }
